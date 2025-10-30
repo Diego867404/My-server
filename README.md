@@ -1,4 +1,3 @@
-# My-server
-MY SMALL SERVER IDK I'M NOT SURE ABOUT THIS LMAO 
+Creado Por Emanuel Moncada Neira 1115 
 
-BY:Diego andres lopez perez 11-15
+Con la ayuda de el profesor Henry Ortegon
